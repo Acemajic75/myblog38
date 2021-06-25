@@ -1,0 +1,13 @@
+ body {
+     background-image: url("https://i.postimg.cc/bv5d35nK/racing.jpg");
+     background-size: cover;
+ }
+
+ #my_canvas {
+     border-width: 10px;
+     background-color: aquamarine;
+     border-style: ridge;
+     border-color: black;
+     
+ }
+
